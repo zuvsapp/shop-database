@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mongoimport --db shop --collection stores --type json --drop --file json/stores.json --jsonArray
+mongoimport --db shop --collection shops --type json --drop --file json/shops.json --jsonArray

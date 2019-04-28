@@ -1,13 +1,13 @@
 [
 	{
-		 "_id": 1,
-		 "country": "Wales",
+		"_id": "1",
+		"country": "Wales",
 		"city": "Swansea",
 		"size": "small"
 	},
 
 	{	
-		 "_id": 2,
+		"_id": "2",
 		"country": "Wales",
 		"city": "Cardiff",
 		"size": "medium"
